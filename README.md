@@ -22,4 +22,4 @@ make -j && ./benchmark
 ## Contact
 Available for 15-min tech screen this week.  
 Loom demo: Available on request  
-Email:adityarajput04040@gmail.com | Phone: +91-8379087214
+Email: [tera email] | Phone: +91-8379087214
