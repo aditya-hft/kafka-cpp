@@ -1,22 +1,14 @@
-# Kafka-CPP 50k msg/sec 🔥
+# kafka-cpp
 
-**Target:** Production-grade Kafka clone in C++ for Google L4 / YC interviews
+> Lock-free Kafka clone in C++ | Work in Progress
 
-### **Day 1: 17 May 2026 – War Started**
-- **Goal 1 June 2026:** Raft Consensus + Zero-copy networking + 50k msg/sec benchmark
-- **Progress:** 1/6 Projects | 6/1200 DSA Done
-- **Status:** Started. 1 June tak L4 level ready.
+**Status:** Early stage. Building core architecture.
 
-### **Tech Stack**
-- **Language:** C++20
-- **Core:** Raft Algorithm, Zero-copy sendfile, epoll
-- **Benchmark:** vs Apache Kafka, Redpanda
+**Hardware:** Laptop arrives 22 May 2026. Real benchmarks after that.
+**Current:** ~70 msg/sec on mobile testing. 
+**Target:** 10M msg/sec via io_uring + lock-free MPMC. ETA: Mid-June 2026
 
-### **Roadmap**
-- **Week 1:** TCP Server + Kafka Wire Protocol Parser
-- **Week 2:** Raft Leader Election + Log Replication
-- **Week 3:** Zero-copy Producer/Consumer
-- **Week 4:** Benchmark + Docs + Blog Post
+**About me:** 17yo, Talegaon Dabhade. Learning systems for HFT.
+**Availability:** Can join full-time after 15 June 2026.
 
-**1 June 2026: Google L4 2L-8L/month or YC $100k+**
-**Aditya Singh | 17 | Talegaon Dabhade**
+**Note:** Code is WIP, not production. Happy to discuss design/architecture.
