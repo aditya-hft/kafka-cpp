@@ -11,7 +11,7 @@ High-performance Kafka clone built from scratch for HFT/low-latency systems.
 
 **Built by:** Aditya Singh, 17, Talegaon Dabhade  
 **Target:** SDE Intern - HFT/Quant firms | June/July 2026  
-**LeetCode:** 400+ solved | 20x Hard in 0ms | 7x Global Rank 1  
+**LeetCode:** 222+ solved | 20x Hard in 0ms | 7x Global Rank 1  
 
 ## Quick Start
 ```bash
