@@ -10,7 +10,7 @@ High-performance Kafka clone built from scratch for HFT/low-latency systems.
 - Tech: io_uring, lock-free MPMC queue, zero-copy, cache-line aligned
 
 **Built by:** Aditya Singh, 17, Talegaon Dabhade  
-**Target:** SDE Intern - HFT/Quant firms | June/July 2026  
+**Target:** SDE Intern - HFT/Quant firms | September 2026
 **LeetCode:** 222+ solved | 47x Hard in 0ms | 7x Global Rank 1  
 
 ## Quick Start
